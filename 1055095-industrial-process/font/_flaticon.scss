@@ -3,8 +3,8 @@
     Creation date: 07/08/2018 08:21
     */
 
-    @font-face {
-  font-family: "Flaticon-Industral-Process";
+@font-face {
+  font-family: "Flaticon-Industrial-Process";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
        url("./Flaticon.woff") format("woff"),
@@ -16,14 +16,14 @@
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: "Flaticon-Industral-Process";
+    font-family: "Flaticon-Industrial-Process";
     src: url("./Flaticon.svg#Flaticon") format("svg");
   }
 }
 
-    .fi:before{
-        display: inline-block;
-  font-family: "Flaticon-Industral-Process";
+.fi:before{
+  display: inline-block;
+  font-family: "Flaticon-Industrial-Process";
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -34,9 +34,9 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
-    }
+}
 
-    .flaticon-001-conveyor:before { content: "\f100"; }
+.flaticon-001-conveyor:before { content: "\f100"; }
 .flaticon-002-robot:before { content: "\f101"; }
 .flaticon-003-forklift:before { content: "\f102"; }
 .flaticon-004-harbor-crane:before { content: "\f103"; }
@@ -86,54 +86,54 @@
 .flaticon-048-headphones:before { content: "\f12f"; }
 .flaticon-049-crusher:before { content: "\f130"; }
 .flaticon-050-pipe:before { content: "\f131"; }
-    
-    $font-Flaticon-001-conveyor: "\f100";
-    $font-Flaticon-002-robot: "\f101";
-    $font-Flaticon-003-forklift: "\f102";
-    $font-Flaticon-004-harbor-crane: "\f103";
-    $font-Flaticon-005-machine: "\f104";
-    $font-Flaticon-006-drilling: "\f105";
-    $font-Flaticon-007-machine-1: "\f106";
-    $font-Flaticon-008-pump: "\f107";
-    $font-Flaticon-009-generator: "\f108";
-    $font-Flaticon-010-sorting: "\f109";
-    $font-Flaticon-011-filtration: "\f10a";
-    $font-Flaticon-012-plasma: "\f10b";
-    $font-Flaticon-013-bending: "\f10c";
-    $font-Flaticon-014-conveyor-1: "\f10d";
-    $font-Flaticon-015-control-panel: "\f10e";
-    $font-Flaticon-016-ammeter: "\f10f";
-    $font-Flaticon-017-printer: "\f110";
-    $font-Flaticon-018-cad: "\f111";
-    $font-Flaticon-019-cooling: "\f112";
-    $font-Flaticon-020-multimeter: "\f113";
-    $font-Flaticon-021-ladle: "\f114";
-    $font-Flaticon-022-control: "\f115";
-    $font-Flaticon-023-uncoiler: "\f116";
-    $font-Flaticon-024-conveyor-2: "\f117";
-    $font-Flaticon-025-airbrush: "\f118";
-    $font-Flaticon-026-glove: "\f119";
-    $font-Flaticon-027-wagon: "\f11a";
-    $font-Flaticon-028-disconnect: "\f11b";
-    $font-Flaticon-029-hook: "\f11c";
-    $font-Flaticon-030-gas-storage: "\f11d";
-    $font-Flaticon-031-truck: "\f11e";
-    $font-Flaticon-032-drilling-1: "\f11f";
-    $font-Flaticon-033-mask: "\f120";
-    $font-Flaticon-034-gas: "\f121";
-    $font-Flaticon-035-package: "\f122";
-    $font-Flaticon-036-server: "\f123";
-    $font-Flaticon-037-helmet: "\f124";
-    $font-Flaticon-038-electrolysis: "\f125";
-    $font-Flaticon-039-factory: "\f126";
-    $font-Flaticon-040-wire: "\f127";
-    $font-Flaticon-041-bending-1: "\f128";
-    $font-Flaticon-042-container: "\f129";
-    $font-Flaticon-043-shelves: "\f12a";
-    $font-Flaticon-044-roll: "\f12b";
-    $font-Flaticon-045-glasses: "\f12c";
-    $font-Flaticon-046-tank: "\f12d";
-    $font-Flaticon-047-saw: "\f12e";
-    $font-Flaticon-048-headphones: "\f12f";
-    $font-Flaticon-049-crusher: "\f130";
-    $font-Flaticon-050-pipe: "\f131";
+
+$font-Flaticon-001-conveyor: "\f100";
+$font-Flaticon-002-robot: "\f101";
+$font-Flaticon-003-forklift: "\f102";
+$font-Flaticon-004-harbor-crane: "\f103";
+$font-Flaticon-005-machine: "\f104";
+$font-Flaticon-006-drilling: "\f105";
+$font-Flaticon-007-machine-1: "\f106";
+$font-Flaticon-008-pump: "\f107";
+$font-Flaticon-009-generator: "\f108";
+$font-Flaticon-010-sorting: "\f109";
+$font-Flaticon-011-filtration: "\f10a";
+$font-Flaticon-012-plasma: "\f10b";
+$font-Flaticon-013-bending: "\f10c";
+$font-Flaticon-014-conveyor-1: "\f10d";
+$font-Flaticon-015-control-panel: "\f10e";
+$font-Flaticon-016-ammeter: "\f10f";
+$font-Flaticon-017-printer: "\f110";
+$font-Flaticon-018-cad: "\f111";
+$font-Flaticon-019-cooling: "\f112";
+$font-Flaticon-020-multimeter: "\f113";
+$font-Flaticon-021-ladle: "\f114";
+$font-Flaticon-022-control: "\f115";
+$font-Flaticon-023-uncoiler: "\f116";
+$font-Flaticon-024-conveyor-2: "\f117";
+$font-Flaticon-025-airbrush: "\f118";
+$font-Flaticon-026-glove: "\f119";
+$font-Flaticon-027-wagon: "\f11a";
+$font-Flaticon-028-disconnect: "\f11b";
+$font-Flaticon-029-hook: "\f11c";
+$font-Flaticon-030-gas-storage: "\f11d";
+$font-Flaticon-031-truck: "\f11e";
+$font-Flaticon-032-drilling-1: "\f11f";
+$font-Flaticon-033-mask: "\f120";
+$font-Flaticon-034-gas: "\f121";
+$font-Flaticon-035-package: "\f122";
+$font-Flaticon-036-server: "\f123";
+$font-Flaticon-037-helmet: "\f124";
+$font-Flaticon-038-electrolysis: "\f125";
+$font-Flaticon-039-factory: "\f126";
+$font-Flaticon-040-wire: "\f127";
+$font-Flaticon-041-bending-1: "\f128";
+$font-Flaticon-042-container: "\f129";
+$font-Flaticon-043-shelves: "\f12a";
+$font-Flaticon-044-roll: "\f12b";
+$font-Flaticon-045-glasses: "\f12c";
+$font-Flaticon-046-tank: "\f12d";
+$font-Flaticon-047-saw: "\f12e";
+$font-Flaticon-048-headphones: "\f12f";
+$font-Flaticon-049-crusher: "\f130";
+$font-Flaticon-050-pipe: "\f131";
