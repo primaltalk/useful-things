@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 31/07/2019 17:17
+    Creation date: 31/07/2019 18:23
     */
 
     @font-face {
@@ -51,6 +51,12 @@
 .flaticon-milling-machine-1:before { content: "\f10b"; }
 .flaticon-drill-1:before { content: "\f10c"; }
 .flaticon-lathe-machine:before { content: "\f10d"; }
+.flaticon-boss:before { content: "\f10e"; }
+.flaticon-work:before { content: "\f10f"; }
+.flaticon-wrench:before { content: "\f110"; }
+.flaticon-gear:before { content: "\f111"; }
+.flaticon-caliper:before { content: "\f112"; }
+.flaticon-graphic:before { content: "\f113"; }
     
     $font-Flaticon-budget: "\f100";
     $font-Flaticon-welder: "\f101";
@@ -66,3 +72,9 @@
     $font-Flaticon-milling-machine-1: "\f10b";
     $font-Flaticon-drill-1: "\f10c";
     $font-Flaticon-lathe-machine: "\f10d";
+    $font-Flaticon-boss: "\f10e";
+    $font-Flaticon-work: "\f10f";
+    $font-Flaticon-wrench: "\f110";
+    $font-Flaticon-gear: "\f111";
+    $font-Flaticon-caliper: "\f112";
+    $font-Flaticon-graphic: "\f113";
