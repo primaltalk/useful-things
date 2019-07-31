@@ -1,0 +1,68 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 31/07/2019 17:17
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-budget:before { content: "\f100"; }
+.flaticon-welder:before { content: "\f101"; }
+.flaticon-repair:before { content: "\f102"; }
+.flaticon-drill:before { content: "\f103"; }
+.flaticon-robot:before { content: "\f104"; }
+.flaticon-robot-1:before { content: "\f105"; }
+.flaticon-conveyor:before { content: "\f106"; }
+.flaticon-worker:before { content: "\f107"; }
+.flaticon-car:before { content: "\f108"; }
+.flaticon-plastic:before { content: "\f109"; }
+.flaticon-milling-machine:before { content: "\f10a"; }
+.flaticon-milling-machine-1:before { content: "\f10b"; }
+.flaticon-drill-1:before { content: "\f10c"; }
+.flaticon-lathe-machine:before { content: "\f10d"; }
+    
+    $font-Flaticon-budget: "\f100";
+    $font-Flaticon-welder: "\f101";
+    $font-Flaticon-repair: "\f102";
+    $font-Flaticon-drill: "\f103";
+    $font-Flaticon-robot: "\f104";
+    $font-Flaticon-robot-1: "\f105";
+    $font-Flaticon-conveyor: "\f106";
+    $font-Flaticon-worker: "\f107";
+    $font-Flaticon-car: "\f108";
+    $font-Flaticon-plastic: "\f109";
+    $font-Flaticon-milling-machine: "\f10a";
+    $font-Flaticon-milling-machine-1: "\f10b";
+    $font-Flaticon-drill-1: "\f10c";
+    $font-Flaticon-lathe-machine: "\f10d";
