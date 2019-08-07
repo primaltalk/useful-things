@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 31/07/2019 18:28
+  	Creation date: 07/08/2019 15:04
   	*/
 
 @font-face {
@@ -51,3 +51,5 @@ margin-left: 20px;
 .flaticon-caliper:before { content: "\f112"; }
 .flaticon-graphic:before { content: "\f113"; }
 .flaticon-support:before { content: "\f114"; }
+.flaticon-edm:before { content: "\f115"; }
+.flaticon-laptop:before { content: "\f116"; }

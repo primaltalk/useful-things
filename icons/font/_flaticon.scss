@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 31/07/2019 18:28
+    Creation date: 07/08/2019 15:04
     */
 
     @font-face {
@@ -58,6 +58,8 @@
 .flaticon-caliper:before { content: "\f112"; }
 .flaticon-graphic:before { content: "\f113"; }
 .flaticon-support:before { content: "\f114"; }
+.flaticon-edm:before { content: "\f115"; }
+.flaticon-laptop:before { content: "\f116"; }
     
     $font-Flaticon-budget: "\f100";
     $font-Flaticon-welder: "\f101";
@@ -80,3 +82,5 @@
     $font-Flaticon-caliper: "\f112";
     $font-Flaticon-graphic: "\f113";
     $font-Flaticon-support: "\f114";
+    $font-Flaticon-edm: "\f115";
+    $font-Flaticon-laptop: "\f116";
